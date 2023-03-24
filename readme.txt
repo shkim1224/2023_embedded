@@ -8,5 +8,6 @@
 4) 디렉토리에 있는 requirements.txt 파일을 사용하여 작업관련 패키지를 한번에 설치함
    (opencv_media) $ pip install -r requirements.txt // 이 명령 수행은 requirements.txt 가 있는 위치에서 실행
 
-5) 압축해제된 폴더에 들어가 vsc 를 실행시킴
+5) 압축해제된 폴더에 들어가 하기와 같이 vsc 를 실행시킴
+
 
